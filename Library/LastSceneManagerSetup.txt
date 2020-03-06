@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Bowling Kegel & Ball/Resources/Scenes/BowlingKegelBall.unity
+  isLoaded: 1
+  isActive: 1
